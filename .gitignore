@@ -1,0 +1,17 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS & Editor junk
+Thumbs.db
+.DS_Store
+.vs/
+.vscode/
+.idea/
+
+# Unreal temporary folders
+Intermediate/
+Binaries/
+Saved/
+DerivedDataCache/
