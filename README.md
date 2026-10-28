@@ -5,7 +5,7 @@ The **TIF Importer** plugin imports GeoTIFF DEM files into Unreal Engine 5 and c
 
 - **Plugin Name:** TIF Importer
 - **Current Version:** 1.0.0
-- **Supported Unreal Engine Versions:** 5.0+
+- **Supported Unreal Engine Versions:** 5.8+
 - **Platforms:** Windows (64-bit)
 - **Intended Audience:** Level Designers, Technical Artists
 
@@ -24,7 +24,7 @@ The **TIF Importer** plugin imports GeoTIFF DEM files into Unreal Engine 5 and c
 ## 3. Installation
 
 ### 3.1 Requirements
-- Unreal Engine 5.0 or newer
+- Unreal Engine 5.8 or newer
 - Windows 10 or later
 
 ### 3.2 Installation Steps
